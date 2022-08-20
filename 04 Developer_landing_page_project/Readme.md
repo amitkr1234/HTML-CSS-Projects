@@ -1,4 +1,4 @@
-# Developer Landing Website [![Template Project](https://img.shields.io/badge/Template-Project-red)](http://www.gnu.org/licenses/a )   
+# Developer Landing Website [![Template Project](https://img.shields.io/badge/Template-Project-brightgreen)](http://www.gnu.org/licenses/a )   
 
 This is basically a one pager website Template project made in HTML/CSS for an imaginary Designing landing page .
 
