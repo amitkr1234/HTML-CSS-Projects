@@ -13,5 +13,4 @@ This is basically a one pager website Template project made in HTML/CSS for an i
   - CSS Flex Box
  
  
- !! And Note that I haven't made it responsive it only works in laptop screen if you are useing desktop please zomm in or out that might work .
  
